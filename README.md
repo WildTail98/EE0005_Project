@@ -14,8 +14,7 @@ Our Chosen DataSet: https://www.kaggle.com/tunguz/us-elections-dataset
   - Compare Total Votes on a year by year basis to detect any anomalies, and determine if there is any external factors that may have influenced it
 
 4) **20%** What Data Science (DS) / Machine Learning (ML) tools we should use to solve our Objective + **10%** Are we using anything new or doing something beyond the course scope?
-  - Random Forest Regression
-  - Multilayer Perceptron
+  - Random Forest Regression (NEW)
+  - Multilayer Perceptron (NEW)
+  - Boxplot, Histogram, Violinplot, Scatterplot etc just like the lab sessions
 
-What do to with the columns extracted:
-- Total Votes: Compare the total votes for the entire country for that year with each passing year, and see if there is a increase or decrease in number of Americans going to the polls. Is there any year where there is a surge in voters? If there is, is it tied to any major event that has happened in those years?
