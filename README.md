@@ -6,7 +6,7 @@ Our Chosen DataSet: https://www.kaggle.com/tunguz/us-elections-dataset
 1) **10%** What is the "Interesting Problem" based on the DataSet?
   - Determine which states will be swing states
   - Determine which states will be Democratic or Republican
-  - Determine Whether the Next President is Democractic or Republican
+  - Determine whether the Next President is Democractic or Republican based on the first two points
  
 2) **10%** Prep The Chosen DataSet
   - DataSets have been prepped
